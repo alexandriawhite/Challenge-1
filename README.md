@@ -12,7 +12,7 @@ Horiseon Social Services, Inc. marketing agency wants to update their codebase t
 
 ## Installation
 
-I began this project by cloning repository: https://github.com/coding-boot-camp/urban-octo-telegram.git. Once cloned, I started working on the project in my repository and pushed the updates to: https://github.com/alexandriawhite/Boot-Camp-Challenge-1. You may view or clone any materials needed here. 
+I began this project by cloning repository: https://github.com/coding-boot-camp/urban-octo-telegram.git. Once cloned, I started working on the project in my repository and pushed the updates to: https://github.com/alexandriawhite/Boot-Camp-Challenge-1. You may view or clone any materials needed here. To view challenge 1 please navigate to: https://alexandriawhite.github.io/Challenge-1/
 
 ## Usage
 
@@ -30,11 +30,9 @@ I cleaned up the CSS file and created comments to make the document easier to fo
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
+    
+![Screenshot of the live webpage](./assets/images/screenshot.png)
 
-
-    ```md
-    ![Screenshot of the live webpage](./assets/images/screenshot.png)
-    ```
 
 ## Credits
 
