@@ -36,7 +36,7 @@ I cleaned up the CSS file and created comments to make the document easier to fo
 
 ## Credits
 
-Project from: https://github.com/coding-boot-camp/urban-octo-telegram
+Project from Xander Rapstine, a front-end web developer based out of Austin, Texas: https://github.com/coding-boot-camp/urban-octo-telegram
 
 
 ## License
@@ -44,4 +44,4 @@ Project from: https://github.com/coding-boot-camp/urban-octo-telegram
 N/A
 
 ## 📝 Notes
-I attempted to include a photo in the README
+This is my first time adding a photo in the README

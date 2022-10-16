@@ -15,7 +15,7 @@ body {/*The off-white background makes the true white letters pop */
     background-color: #2a607c;
 }
 
-.header h1 {
+.header h1 {/*Formatting the words on the right of the banner */
     display: inline-block;
     font-size: 48px;
 }
@@ -53,23 +53,23 @@ p {
     background-position: center;
 }
 
-.float-left { /*for search engin and social meadia marketing*/
+.float-left { /*for search engin and social meadia marketing images*/
     float: left;
     margin-right: 25px;
 }
 
-.float-right {/*For online reputation */
+.float-right {/*For online reputation image*/
     float: right;
     margin-left: 25px;
 }
 
-.content {/*Moved lower left of screen to 75% mark so the benefits part can be in line */
+.content {/*Sized lower left content to 75% so benefits section can be in the same line */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {/*Keeps search engine optimization, online reputation management, and social media marketing on the left side giving lead generation space to be in the same line  */
+.benefits {/*Formatting for lower left content to be on the left side*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -80,24 +80,24 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {/*Only need one of these since the three pictures are the same style */
+.benefit-lead {/*Margin for items on the right*/
     margin-bottom: 32px;
 }
 
-.benefit-lead h3 {/*Only need one of these since the three pictures are the same style */
+.benefit-lead h3 {/*Right lower section center title formatting */
     margin-bottom: 10px;
     text-align: center;
-}
+} 
 
 
-.benefit-lead img {/*Only need one of these since the three pictures are the same style */
+.benefit-lead img {/*Right lower section image formatting*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 
-.search-engine-optimization { /*Only need one of these since they are the same style*/
+.search-engine-optimization { /*Lower left section formatting*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -107,12 +107,12 @@ p {
 }
 
 
-.search-engine-optimization img {/*Only need one of these since they are the same style*/
+.search-engine-optimization img {/*Lower left section image formatting*/
     max-height: 200px;
 }
 
 
-.search-engine-optimization h2 {/*Only need one of these since they are the same style*/
+.search-engine-optimization h2 {/*Lower left side title formatting*/
     margin-bottom: 20px;
     font-size: 36px;
 }
