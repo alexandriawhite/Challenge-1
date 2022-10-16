@@ -1,0 +1,131 @@
+* {/*The default value of both padding and margin properties is 0, meaning that any elements that can be changed with CSS by default have no extra spacing.*/
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {/*The off-white background makes the true white letters pop */
+    background-color: #d9dcd6;
+    color:#ffffff;
+}
+
+.header { /*Top Banner */
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+
+.header div { /*Top banner section formatting */
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    font-size: 20px;
+}
+
+
+.header div ul li {/* display list items horizontally instead of vertically.*/
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {/*Turns search engine optimization, online reputation management, and social media marketing white and formatting is removed */
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.hero {/*Banner photo */
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left { /*for search engin and social meadia marketing*/
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {/*For online reputation */
+    float: right;
+    margin-left: 25px;
+}
+
+.content {/*Moved lower left of screen to 75% mark so the benefits part can be in line */
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.benefits {/*Keeps search engine optimization, online reputation management, and social media marketing on the left side giving lead generation space to be in the same line  */
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    background-color: #2589bd;
+}
+
+.benefit-lead {/*Only need one of these since the three pictures are the same style */
+    margin-bottom: 32px;
+}
+
+.benefit-lead h3 {/*Only need one of these since the three pictures are the same style */
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+.benefit-lead img {/*Only need one of these since the three pictures are the same style */
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
+.search-engine-optimization { /*Only need one of these since they are the same style*/
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    background-color: #0072bb;
+
+}
+
+
+.search-engine-optimization img {/*Only need one of these since they are the same style*/
+    max-height: 200px;
+}
+
+
+.search-engine-optimization h2 {/*Only need one of these since they are the same style*/
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+    text-align: center;
+    color:black;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
