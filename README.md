@@ -33,7 +33,7 @@ I cleaned up the CSS file and created comments to make the document easier to fo
 
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Screenshot of the live webpage](./assets/images/screenshot.png)
     ```
 
 ## Credits
