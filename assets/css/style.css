@@ -70,7 +70,7 @@ p {
     margin-left: 20px;
 }
 /*Formatting for lower left content to be on the left side*/
-.benefits {
+.aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -81,17 +81,17 @@ p {
     background-color: #2589bd;
 }
 /*Margin for items on the right*/
-.benefit-lead {
+.aside-styling {
     margin-bottom: 32px;
 }
 /*Right lower section center title formatting */
-.benefit-lead h3 {
+.aside-styling h3 {
     margin-bottom: 10px;
     text-align: center;
 } 
 
 /*Right lower section image formatting*/
-.benefit-lead img {
+.aside-styling img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
