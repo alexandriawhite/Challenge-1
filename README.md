@@ -1,4 +1,11 @@
-# Boot-Camp-Challenge-1
+# Horiseon Social Solution Challenge 1
+## Table of Contents 
+* Description
+* Links
+* Usage
+* Credits
+* License
+* Notes
 
 ## Description
 
@@ -10,9 +17,11 @@ Horiseon Social Services, Inc. marketing agency wants to update their codebase t
 - I learned that the README is the most important document of a project and that it is always better to include more information than not enough
 
 
-## Installation
+## Links
 
-I began this project by cloning repository: https://github.com/coding-boot-camp/urban-octo-telegram.git. Once cloned, I started working on the project in my repository and pushed the updates to: https://github.com/alexandriawhite/Boot-Camp-Challenge-1. You may view or clone any materials needed here. To view challenge 1 please navigate to: https://alexandriawhite.github.io/Challenge-1/
+GitHub URL: https://github.com/alexandriawhite/Horiseon-Social-Solution
+Live URL: https://alexandriawhite.github.io/Horiseon-Social-Solution
+
 
 ## Usage
 
