@@ -19,8 +19,8 @@ Horiseon Social Services, Inc. marketing agency wants to update their codebase t
 
 ## Links
 
-GitHub URL: https://github.com/alexandriawhite/Horiseon-Social-Solution
-Live URL: https://alexandriawhite.github.io/Horiseon-Social-Solution
+* GitHub URL: https://github.com/alexandriawhite/Horiseon-Social-Solution
+* Live URL: https://alexandriawhite.github.io/Horiseon-Social-Solution
 
 
 ## Usage
